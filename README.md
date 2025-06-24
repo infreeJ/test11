@@ -9,4 +9,10 @@ function test() {
     a = 20;
   }
 }
+
+```java
+int mum1 = 10;
+scanner scan = new Scanner(System.in);
 ```
+
+
